@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 .pytest_cache/
 deployment_metadata.json
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
